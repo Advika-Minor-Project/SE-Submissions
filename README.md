@@ -14,4 +14,7 @@ Aaryan Sharma- 19103119<br><br>
 - [UML State Chart Diagram](https://github.com/Advika-Minor-Project/SE-Submissions/blob/main/Advika_UML_State%20Chart%20Diagram.pdf)
 
 ## Project Write-up
-- [Project Write-up](https://github.com/Advika-Minor-Project/SE-Submissions/blob/main/Updated%20ADVIKA-%20A%20MENTAL%20HEALTH%20WEBSITE.pdf)
+- [Advika Write-up](https://github.com/Advika-Minor-Project/SE-Submissions/blob/main/Updated%20ADVIKA-%20A%20MENTAL%20HEALTH%20WEBSITE.pdf)
+
+## Project Report
+- [Advika Report](https://github.com/Advika-Minor-Project/SE-Submissions/blob/main/Project%20Report.pdf)
